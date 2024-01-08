@@ -1,1 +1,0 @@
-GET http://localhost:8070/paginatedUsers?page=${currentPage.current}&limit=${limit}
